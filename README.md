@@ -9,6 +9,8 @@
 <h4>or just follow this <a href="https://www.geeksforgeeks.org/selenium-python-introduction-and-installation/">gfg guide</a></h4>
 
 
+
 <h2>Run</h2>
 <h4>if ur on linux</h4>
 <pre>python3 filename </pre>
+

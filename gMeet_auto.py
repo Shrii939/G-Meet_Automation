@@ -21,6 +21,4 @@ username = drivers.find_element_by_xpath('//*[@id="identifierId"]').send_keys(em
 time.sleep(2)
 
 nxt = drivers.find_element_by_xpath('/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span').click()
-
-
 #anyone knows how to bypass google login restrications 
