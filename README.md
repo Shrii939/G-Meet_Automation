@@ -6,4 +6,4 @@
 <pre>pip3 install selenium </pre>
 <h3>now you need  <a href="https://github.com/mozilla/geckodriver/releases">FireFox Webdriver</a> (ubuntu : download <a href="https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-linux64.tar.gz">this</a> and extract using)</h3>
 <pre>sudo dpkg -i filename</pre>
-<h4>or just follow this <a href="https://www.geeksforgeeks.org/selenium-python-introduction-and-installation/"></a>gfg guide</h4>
+<h4>or just follow this <a href="https://www.geeksforgeeks.org/selenium-python-introduction-and-installation/">gfg guide</a></h4>
